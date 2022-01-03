@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chala-git
-- 👀 I’m interested in informatic, applied mathematics, making fun projects...
-- 🌱 I’m currently learning informatic at ENSIMAG - Grenoble
+- 👀 I’m interested in computer science, applied mathematics, making fun projects...
+- 🌱 I’m currently learning applied mathematics at ENSIMAG - Grenoble
 - 📫 How to reach me : julien.lalanne.travail@gmail.com
 
 <!---
